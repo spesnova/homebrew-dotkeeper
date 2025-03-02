@@ -1,4 +1,4 @@
-class DotKeeper < Formula
+class Dotkeeper < Formula
   desc "dotkeeper is a tiny tool for managing dotfiles declaratively."
   homepage "https://github.com/spesnova/dotkeeper"
   url "https://github.com/spesnova/dotkeeper/releases/download/v0.2.1/dotkeeper_Darwin_x86_64.tar.gz"
